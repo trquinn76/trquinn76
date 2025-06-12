@@ -4,3 +4,4 @@ I have published:
 - [Classification Model Libraries](https://github.com/trquinn76/classification) including:
     - [Australian Classification Library](https://github.com/trquinn76/classification/tree/master/classification-aus)
     - [New Zealand Classification Library](https://github.com/trquinn76/classification/tree/master/classification-nzl)
+    - [UK Classification Library](https://github.com/trquinn76/classification/tree/master/classification-uk)
