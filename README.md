@@ -5,3 +5,4 @@ I have published:
     - [Australian Classification Library](https://github.com/trquinn76/classification/tree/master/classification-aus)
     - [New Zealand Classification Library](https://github.com/trquinn76/classification/tree/master/classification-nzl)
     - [UK Classification Library](https://github.com/trquinn76/classification/tree/master/classification-uk)
+    - [USA Classification Library](https://github.com/trquinn76/classification/tree/master/classification-usa)
